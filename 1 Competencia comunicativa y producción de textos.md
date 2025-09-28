@@ -71,3 +71,27 @@ De lo descrito y el ejemplo se concluye que **un texto**:
 > - Es el resultado de relacionar la expresión lingüística con su contexto, es decir, con la situación en la que se produce el acto de la comunicación.
 
 ### 1.3 Las propiedades del texto
+
+Para que un texto sea una unidad bien construida debe respetar ciertas reglas. Estas se agrupan en las propieades textuales: la adecuación, la coherencia y la cohesión.
+
+#### 1.3.1 La adecuación
+
+La adecuación es la propiead textual que explica **cómo se relaciona un texto con su contexto**. Propieade por la que el texto se adapta al entrono comunicativo. Tiene que ver con los elementos de la comunicación:
+
+1. El emisor: quien emite la comunicación.
+2. El receptor: quien recibe la comunicación.
+3. El tiempo y el lugar en el que se transmite la comunicación.
+4. El canal a través del que se transmite la comunicación.
+
+Cuando no se respetan las normas de adecuación, las personas pueden ser tratadas de maleducadas, ignorantes o pedantes.
+
+La adecuación debe tener en cuenta:
+
+- Las relaciones entre el emisor y el receptor.
+- La finalidad de la comunicación, la intención comunicativa.
+- El canal.
+- El tiempo y espacio del lugar de la comunicación.
+
+> Un texto es adecuado si el mensjae se adapta a su contexto, cosa que implica una finalidad comunicativa, una situación enunciativa concreta y un canal -oral, escrito, audiovisual- a través del que se emite.
+
+#### 1.3.2 La coherencia
