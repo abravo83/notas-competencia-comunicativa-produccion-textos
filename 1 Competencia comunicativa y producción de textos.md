@@ -170,3 +170,17 @@ A modo de recapitulación repasemos el esquema de las propiedades del texto:
      - Conexión textual
 
 ## 2. Tipos de texto: secuencias textuales y géneros
+
+La unidad fundamental de la lingüística textual es el texto, y por tanto es importante definirlo y clasificarlo. Las clasificaciones se pueden hacer aplicando diferentes criterios, pero nos vamos a centrar en dos: _Tipo de texto_ y _Género_.
+
+Estas clasificaciones son complementarias. Podemos clasificar un texto tanto por su tipo como por su género.
+
+### 2.1 Tipos de texto: la finalidad comunicativa.
+
+hay muchas propuestas de tipologías textuales, peor la que más arraigo ha tenido es la de Jean-Michel Adam en 1985 que se ha visto reformulada por otros lingüistas hasta 1992. Esta tipología centra su criterio de clasificación en la **finalidad o intención comunicativa** del hablante.
+
+La finalidad comunicativa se vincula al uso de determinados rasgos lingüísticos y discursivos, de forma que dicha finalidad condiciona el texto y se convierte en uno de los elementos clave de su configuración.
+
+> Los textos se pueden clasificar según su finalidad comunicativa en **argumentativos**, **descriptivos**, **narrativos**, **expositivos** y conversacionales. La finalidad y la tipología se asocian con características discursivas y gramaticales prototípicas de cada tipo, que nos sirven de guía para interpretar y producir textos concretos.
+
+### 2.2 Las secuencias textuales
