@@ -183,4 +183,6 @@ La finalidad comunicativa se vincula al uso de determinados rasgos lingüístico
 
 > Los textos se pueden clasificar según su finalidad comunicativa en **argumentativos**, **descriptivos**, **narrativos**, **expositivos** y conversacionales. La finalidad y la tipología se asocian con características discursivas y gramaticales prototípicas de cada tipo, que nos sirven de guía para interpretar y producir textos concretos.
 
+> **Prototipo textual** Adam (1992): Cuando definimos un tipo de texto, en realidad, nos referimos a un prototipo textual, un modelo ideal y abstracto al que los textos reales se adaptan en mayor o menor medida, pero no necesariamente de manera total. Así, por ejemplo, una película es un texto narrativo por su función comunicativa, pero tiene forma conversacional; por lo tanto, es un texto narrativo prototípico.
+
 ### 2.2 Las secuencias textuales
