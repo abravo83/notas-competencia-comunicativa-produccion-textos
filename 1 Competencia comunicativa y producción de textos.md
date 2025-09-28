@@ -120,3 +120,53 @@ Para desarrollar el tema es necesario incluir un conjunto de informaciones y exc
    - A través de una ordenación en la que se relacionan las informaciones conocidas con las nuevas, de forma que el texto avance. Para que el texto sea comprensible es necesario que contenga información conocida de la que partir y relacionar la información nueva.
 
    > Un texto es coherente si todas sus informaciones se articulan de forma que formen una unidad de sentido. Es decir, si todas las ideas expuestas en el texto se organizan de forma que formen una unidad de sentido. Si todas las ideas expuestas en el texto se organizan, se relacionan y avanzan sin contradiccion
+
+#### 1.3.3 La cohesión
+
+Es la propiedad textual que agrupa todos aquellos mecanismos explícitos que relacionan las distintas partes del texto.
+
+Consideramos a un texto como cohesionado cuando sus distintas partes están bien trabadas.
+
+Hay dos mecanismos fundamentales de cohesión, la referencia y la conexión.
+
+En este ejemplo
+
+> Elena pidió un café _y_ _le_ sirvieron rapidísimo.
+
+hemos marcado dos palabras: La _y_ sirve como un mecanismo de conexión, mientras que la _le_ sirve como mecanismo de referencia.
+
+Con la referencia evitamos repetición de la palabra _Elena_, mientras que con la conexión enlazamos las dos cláusulas: La de la petición de Elena y la de cómo la sirvieron el café.
+
+En otros textos es común evitar repetir un mismo nombre para evitar hacer el texto tedioso de leer mediante el recurso de la **Elisión**.
+
+> Elisión: Consiste en la omisión de algún elemento de la oración que se sobreentiende.
+
+En los mecanismos de **conexión** usamos una serie de palabras para conectar elementos del texto entre sí. A estas palabras las denominamos conectores:
+
+> En consecuencia, Sin embargo, Mientras tanto, etc.
+
+En resumen:
+
+> Un texto está cohesionado si las partes que lo integran se encuentran bien relacionadas y trabadas. Los principales mecanismos de cohesión son la **referencia**, que relaciona las palabras dentro del texto, y la **conexión**, que relaciona partes de la oración (composición oracional), oraciones o grupos de oraciones o párrafos (conexión textual).
+
+A modo de recapitulación repasemos el esquema de las propiedades del texto:
+
+1. Adecuación
+   - 1.1. Finalidad comunicativa.
+   - 1.2. Situación enunciativa.
+   - 1.3. Canal: oral, escrito, audiovisual, telemático.
+2. Coherencia
+   - 2.1. Tema del texto
+   - 2.2. Selección de la información
+   - 2.3 Organización de la información
+     - Esquemas globales
+     - Progresión de la información
+3. Cohesión
+   - 3.1 Referencia
+     - Mecanismos gramaticales de referencia
+     - Mecanismos léxicos de referencia
+   - 3.2 Conexión
+     - Conexion intraoracional: composición oracional
+     - Conexión textual
+
+## 2. Tipos de texto: secuencias textuales y géneros
