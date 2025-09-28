@@ -95,3 +95,28 @@ La adecuación debe tener en cuenta:
 > Un texto es adecuado si el mensjae se adapta a su contexto, cosa que implica una finalidad comunicativa, una situación enunciativa concreta y un canal -oral, escrito, audiovisual- a través del que se emite.
 
 #### 1.3.2 La coherencia
+
+Es la propiedad que explica el significado global del texto: De qué habla, qué información da, y cómo se ha organizado la información seleccionada.
+
+Aspectos de la coherencia:
+
+1. El tema del texto.
+2. La selección de la información
+3. La organización de la información
+
+---
+
+1. El tema del texto:
+
+En un texto debe haber un tema central que va a ser el hilo conductor del texto. De no ser así no habría una unidad comunicativa. El tema es la síntesis máxima del contenido del texto. Puede coincidir con el título o explicitarse a lo largo del texto.
+
+2. La selección de la información:
+
+Para desarrollar el tema es necesario incluir un conjunto de informaciones y excluir otras que no sean esenciales para la intención comunicativa. La cantidad de información que hay siempre es menor que la que necesitamos. Para ser coherentes necesitamos contener las informaciones necesarias y no debemos incluir aquello irrelevante para no resultar confuso.
+
+3. La organización de la información. La información se organiza en dos niveles:
+
+   - A través de esquemas globales, que suelen aparecer como estructuras convencionales de género: -recetas, fichas, artículos, etc-
+   - A través de una ordenación en la que se relacionan las informaciones conocidas con las nuevas, de forma que el texto avance. Para que el texto sea comprensible es necesario que contenga información conocida de la que partir y relacionar la información nueva.
+
+   > Un texto es coherente si todas sus informaciones se articulan de forma que formen una unidad de sentido. Es decir, si todas las ideas expuestas en el texto se organizan de forma que formen una unidad de sentido. Si todas las ideas expuestas en el texto se organizan, se relacionan y avanzan sin contradiccion
