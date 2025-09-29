@@ -181,8 +181,24 @@ hay muchas propuestas de tipologías textuales, peor la que más arraigo ha teni
 
 La finalidad comunicativa se vincula al uso de determinados rasgos lingüísticos y discursivos, de forma que dicha finalidad condiciona el texto y se convierte en uno de los elementos clave de su configuración.
 
-> Los textos se pueden clasificar según su finalidad comunicativa en **argumentativos**, **descriptivos**, **narrativos**, **expositivos** y conversacionales. La finalidad y la tipología se asocian con características discursivas y gramaticales prototípicas de cada tipo, que nos sirven de guía para interpretar y producir textos concretos.
+> Los textos se pueden clasificar según su finalidad comunicativa en **argumentativos**, **descriptivos**, **narrativos**, **expositivos** y **conversacionales**. La finalidad y la tipología se asocian con características discursivas y gramaticales prototípicas de cada tipo, que nos sirven de guía para interpretar y producir textos concretos.
+
+- **Argumentativos**: Opinar o convencer
+- **Descriptivos**: Informar sobre el estado de las cosas.
+- **Narrativos**: Presentar hechos y acciones en un eje cronológico.
+- **Expositivos**: Informar, explicar algo.
+- **Conversacionales**: Intercambiar información entre dos o más interlocutores.
 
 > **Prototipo textual** Adam (1992): Cuando definimos un tipo de texto, en realidad, nos referimos a un prototipo textual, un modelo ideal y abstracto al que los textos reales se adaptan en mayor o menor medida, pero no necesariamente de manera total. Así, por ejemplo, una película es un texto narrativo por su función comunicativa, pero tiene forma conversacional; por lo tanto, es un texto narrativo prototípico.
 
 ### 2.2 Las secuencias textuales
+
+El principal pero que se le puede poner a la clasificación de Adam es que en la vida real difícilmente nos encontramos textos que se adscriban íntegramente a alguno de los tipos propuestos. En la realidad lo que encontramos suelen ser combinaciones de textos: argumentativos con expositivos, conversacionales con descriptivos...
+
+Para dar cuenta de la naturaleza híbrida de muchos textos, Adam introdujo el concepto de **secuencia**.
+
+> Una secuencia sería cada uno de los fragmentos, de extensión variable, que presentan una unidad de significado y a menudo también de forma, que responden a una función comunicativa determinada y diferenciada. Cuando en una fragmento de texto tenemos la finalidad comunicativa de narrar, tendríamos una secuencia narrativa.
+
+Cuando nos encontramos con un texto con secuencias diferentes, **podemos definir el texto** según cúal sea **la secuencia predominante**, o mejor aún, determinando cuál es **la finalidad comunicativa predominante**.
+
+> En resumen, podemos diferenciar cinco tipos textuales básicos según su finalidad comunicativa: narrativos, descriptivos, expositivos, argumentativos y conversacionales.
