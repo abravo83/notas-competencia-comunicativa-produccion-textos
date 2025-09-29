@@ -201,4 +201,20 @@ Para dar cuenta de la naturaleza híbrida de muchos textos, Adam introdujo el co
 
 Cuando nos encontramos con un texto con secuencias diferentes, **podemos definir el texto** según cúal sea **la secuencia predominante**, o mejor aún, determinando cuál es **la finalidad comunicativa predominante**.
 
-> En resumen, podemos diferenciar cinco tipos textuales básicos según su finalidad comunicativa: narrativos, descriptivos, expositivos, argumentativos y conversacionales.
+> En resumen, podemos diferenciar cinco tipos textuales básicos según su finalidad comunicativa: narrativos, descriptivos, expositivos, argumentativos y conversacionales. SIn embargo, es difícil encontrar textos íntegramente adscritos a uno u otro tipo, por lo que podemos diferenciar secuencias textuales dentro de un texto que contengan unidades de sentido y de forma diferenciadas por la función comunicativa que cumplen. La finalidad comunicativa predominante será la que en última instancia hace que un texto se clasifique como de un tipo o de otro.
+
+### 2.3 Los géneros
+
+Otro forma de clasificar los textos es partir de la agrupación por géneros. El término género se ha extendido más alla de los textos a películas, radio o televisión.
+
+En lingüística hablamos de generos textuales o discursivos, o simplemente de _géneros_, para designar textos con unas mismas características, vinculados a determinadas esferas de la actividad humana. Cualquier esfera de la actividad humana en la que se utilice la lengua genera textos que tienen unas características estructurales, discursivas y lingüísticas determinadas y reconocibles.
+
+Los hablantes conocen e identifican fácilmente estos textos: Distinguimos una carta de una entrevista, de una invitación, un albarán, etc.
+
+Es fálcil distinguir entre dos géneros diferentes porque por una parte cada cual tiene una estructura establecida, y por otra parte estos textos foman parte de nuestra experiencia comunicativa, ya que a lo largo de nuestra vida hemos visto muchos otros parecidos.
+
+Los géneros responden a situaciones arquetípicas que se han creado históricamente a través del uso. No constituyen una lista cerrada, ya que nuevas necesidades producen nuevos géneros y hacen desaparecer otros.
+
+> Los textos se pueden clasificar según las características que tienen en común y la esfera de actividad comunicativa con la que se asocian. El concepto de género permite agrupar textos que tienen una estructura convencional, determinada, fijada y que forman parte del repertorio comunicativo de las personas y de una comunidad de hablantes.
+
+### 2.4 Tipos de secuencias textuales
