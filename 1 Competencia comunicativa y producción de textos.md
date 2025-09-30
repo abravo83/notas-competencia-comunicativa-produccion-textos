@@ -246,4 +246,14 @@ Características lingüísticas: abundancia de verbos de acción, tiempos verbal
 
 Géneros: novelas, películas, cuentos, noticias, reportajes, etc.
 
-#### 2.4.3 Secuencia descriptivag
+#### 2.4.3 Secuencia descriptiva
+
+Definición: informa sobre el estado de las cosas; es decir, cómo es una persona, un objeto, un lugar, una época, un ambiente, etc.
+
+Estructura: ordenación de carácter especial (de más general a más concreto, de arriba a abajo, de izquierda a derecha). Se suele iniciar con el tema o título, aunque a veces en textos literarios o publicitarios puede aparecer al final.
+
+Características lingüísticas: abundancia de adjetivos o complementos del nombre, de oraciones atributivas (con los verbos *ser, estar o parecer*), expresiones de lugar, tiempos verbales en presente o imperfecto, enumeraciones, comparaciones.
+
+Géneros: folletos turísticos, inventarios, avisos de personas desaparecidas, catálogos comerciales. Pueden aparecer incluidads en otros textos, como noticias, narraciones, anuncios, textos científicos, etc.
+
+#### 2.4.4 Secuencia argumentativa
