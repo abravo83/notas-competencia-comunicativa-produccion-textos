@@ -218,3 +218,20 @@ Los géneros responden a situaciones arquetípicas que se han creado históricam
 > Los textos se pueden clasificar según las características que tienen en común y la esfera de actividad comunicativa con la que se asocian. El concepto de género permite agrupar textos que tienen una estructura convencional, determinada, fijada y que forman parte del repertorio comunicativo de las personas y de una comunidad de hablantes.
 
 ### 2.4 Tipos de secuencias textuales
+
+Vamos a ver los principales rasgos de las secuencias conversacionales, narrativas, argumentativas, descriptivas y expositivas.
+
+#### 2.4.1 Secuencia conversacional
+
+Definición: Intercambio de información entre varios interlocutores que se encuentran presentes en el momento del acto comunicativo.
+
+Estructura: Organizada a partir de las intervenciones de los interlocutores, que siguen un orden marcado por turnos de habla. Suelen incluir fórmulas de saludo o de apertura y despedida o cierre.
+
+Características textuales: muchos tipos de modalidades oracionales (interrogaciones, exclamaciones, etc); gestualidad y cambios de entonación, si el texto es oral; recusros gráficos (guiones, puntuación, tipo de letra), si el texto es escrito; fórmulas (saludos, invitaciones, excusas, formas de cortesía).
+
+Características lingüísticas: Rasgos propios de la oralidad (alteración del orden de las palabras, omisiones, repeticiones, etc.); presencia de pronombres personales; utilización frecuente de la primera y segunda persona, referencias al tiempo y al espacio en el que se produce el acto comunicativo; interjecciones (¡ah!, ¡eh!, vale, etc.) y uso de conectores y marcadores que indican la actitud del hablante u organizan el discurso -tomar la palabra, manifestar oposición al lo que se ha dicho, etc.-, tales como *y, pues, pero, a ver, oye* etc.
+
+Manifestaciones (géneros): diálogos, entrevistas, conversaciones telefónicas, conversaciones cotidianas, etc. Básicamente, son orales; las formas escritas son en gran medida adaptaciones de las orales (entrevistas, libretos de obras de teatro, etc.).
+
+
+#### 2.4.2 Secuencia narrativa
