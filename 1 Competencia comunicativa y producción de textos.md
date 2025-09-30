@@ -235,3 +235,15 @@ Manifestaciones (géneros): diálogos, entrevistas, conversaciones telefónicas,
 
 
 #### 2.4.2 Secuencia narrativa
+
+Definición: relata acciones y hechos, reales o imaginarios, sityados en un marco temporal y causal.
+
+Estructura: organización temporal básicamente en tres partes: planteamiento, nudo y desdenlace; afinando más podemos distinguir cinco: introducción, complicación, evolución, resolución y situación final.
+
+Características textuales: existencia de un narrador (que nos presenta los hechos en primera o tercera persona); introducción de otras voces, además de la del narrador, a través de diálogos (secuencias conversacionales)
+
+Características lingüísticas: abundancia de verbos de acción, tiempos verbales pasados, expresiones temporales.
+
+Géneros: novelas, películas, cuentos, noticias, reportajes, etc.
+
+#### 2.4.3 Secuencia descriptivag
