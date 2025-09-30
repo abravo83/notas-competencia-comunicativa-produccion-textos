@@ -257,3 +257,15 @@ Características lingüísticas: abundancia de adjetivos o complementos del nomb
 Géneros: folletos turísticos, inventarios, avisos de personas desaparecidas, catálogos comerciales. Pueden aparecer incluidads en otros textos, como noticias, narraciones, anuncios, textos científicos, etc.
 
 #### 2.4.4 Secuencia argumentativa
+
+Definición: Tiene como finaliad exponer puntos de vista, opiniones y también rebatir, convencer, persuadir o hacer crecer algo a alguien.
+
+Estructura: presenta una introducción en que se suele plantear la tesis que se pretende defender o rechazar; un desarrollo, donde se presentan los datos y las premisas, los argumentos y contraargumentos; y una conclusión, en la que se reafirma la tesis.
+
+Características textuales: organización de la información por relaciones lógicas (causa-consecuencia, contraste); presencia del emisor en el texto; incorporación de otras opiniones, citas, referencias o comentarios de otros textos; ironía.
+
+Características lingüísticas: uso de conectores que indican causa, consecuencia, contraste, adición; palabras que hacen referencia al emisor y al receptor o, al contrario, construcciones de impersonalización (pasivas, impersonales, etc.); verbos del tipo *decir, creer, pensar, opinar*; palabras con valor subjetivo, como adjetivos o adverbios (*interesante*, *lamentable*)
+
+Géneros: debates, artículos de opinión, cartas al director, quejas formalizadas o formales, oratoria judicial, sermones. También podemos encontrar secuencias argumentativas incluidas en otros textos, como en textos expositivos de carácter científico.
+
+#### 2.4.5 Secuencia expositiva
