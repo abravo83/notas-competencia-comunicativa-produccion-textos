@@ -229,10 +229,9 @@ Estructura: Organizada a partir de las intervenciones de los interlocutores, que
 
 Características textuales: muchos tipos de modalidades oracionales (interrogaciones, exclamaciones, etc); gestualidad y cambios de entonación, si el texto es oral; recusros gráficos (guiones, puntuación, tipo de letra), si el texto es escrito; fórmulas (saludos, invitaciones, excusas, formas de cortesía).
 
-Características lingüísticas: Rasgos propios de la oralidad (alteración del orden de las palabras, omisiones, repeticiones, etc.); presencia de pronombres personales; utilización frecuente de la primera y segunda persona, referencias al tiempo y al espacio en el que se produce el acto comunicativo; interjecciones (¡ah!, ¡eh!, vale, etc.) y uso de conectores y marcadores que indican la actitud del hablante u organizan el discurso -tomar la palabra, manifestar oposición al lo que se ha dicho, etc.-, tales como *y, pues, pero, a ver, oye* etc.
+Características lingüísticas: Rasgos propios de la oralidad (alteración del orden de las palabras, omisiones, repeticiones, etc.); presencia de pronombres personales; utilización frecuente de la primera y segunda persona, referencias al tiempo y al espacio en el que se produce el acto comunicativo; interjecciones (¡ah!, ¡eh!, vale, etc.) y uso de conectores y marcadores que indican la actitud del hablante u organizan el discurso -tomar la palabra, manifestar oposición al lo que se ha dicho, etc.-, tales como _y, pues, pero, a ver, oye_ etc.
 
 Manifestaciones (géneros): diálogos, entrevistas, conversaciones telefónicas, conversaciones cotidianas, etc. Básicamente, son orales; las formas escritas son en gran medida adaptaciones de las orales (entrevistas, libretos de obras de teatro, etc.).
-
 
 #### 2.4.2 Secuencia narrativa
 
@@ -252,7 +251,7 @@ Definición: informa sobre el estado de las cosas; es decir, cómo es una person
 
 Estructura: ordenación de carácter especial (de más general a más concreto, de arriba a abajo, de izquierda a derecha). Se suele iniciar con el tema o título, aunque a veces en textos literarios o publicitarios puede aparecer al final.
 
-Características lingüísticas: abundancia de adjetivos o complementos del nombre, de oraciones atributivas (con los verbos *ser, estar o parecer*), expresiones de lugar, tiempos verbales en presente o imperfecto, enumeraciones, comparaciones.
+Características lingüísticas: abundancia de adjetivos o complementos del nombre, de oraciones atributivas (con los verbos _ser, estar o parecer_), expresiones de lugar, tiempos verbales en presente o imperfecto, enumeraciones, comparaciones.
 
 Géneros: folletos turísticos, inventarios, avisos de personas desaparecidas, catálogos comerciales. Pueden aparecer incluidads en otros textos, como noticias, narraciones, anuncios, textos científicos, etc.
 
@@ -264,8 +263,20 @@ Estructura: presenta una introducción en que se suele plantear la tesis que se 
 
 Características textuales: organización de la información por relaciones lógicas (causa-consecuencia, contraste); presencia del emisor en el texto; incorporación de otras opiniones, citas, referencias o comentarios de otros textos; ironía.
 
-Características lingüísticas: uso de conectores que indican causa, consecuencia, contraste, adición; palabras que hacen referencia al emisor y al receptor o, al contrario, construcciones de impersonalización (pasivas, impersonales, etc.); verbos del tipo *decir, creer, pensar, opinar*; palabras con valor subjetivo, como adjetivos o adverbios (*interesante*, *lamentable*)
+Características lingüísticas: uso de conectores que indican causa, consecuencia, contraste, adición; palabras que hacen referencia al emisor y al receptor o, al contrario, construcciones de impersonalización (pasivas, impersonales, etc.); verbos del tipo _decir, creer, pensar, opinar_; palabras con valor subjetivo, como adjetivos o adverbios (_interesante_, _lamentable_)
 
 Géneros: debates, artículos de opinión, cartas al director, quejas formalizadas o formales, oratoria judicial, sermones. También podemos encontrar secuencias argumentativas incluidas en otros textos, como en textos expositivos de carácter científico.
 
 #### 2.4.5 Secuencia expositiva
+
+Definición: tiene como finalidad informar, explicar algo.
+
+Estructura: introducción, desarrollo y conclusión.
+
+Características textuales: tiene organización lógica y jerárquica de la información, con método analítico y sintético; técnicas: definición, ejemplificación, clasificación; gráficos, esquemas, dibujos, títulos, subtítulos, subdivisión en apartados, recursos gráficos (negrita, cursiva, etc.); en las expresiones orales hay repeticiones, entonaciones, pausas enfáticas o expresivas, etc.
+
+Características lingüísticas: oraciones atributivas; conectores, sobre todo de distribución, ejemplificación, reformulación, causa y consecuencia; tiempos verbales en el eje del presente; léxico abstracto y especializado, nominalizaciones (nombres formados a partir de un verbo, adjetivo, adverbio u otro nombre).
+
+Géneros: lecciones, exámenes, apuntes, folletos explicativos, conferencias, tratados, libros de texto, etc.
+
+Como variante a esta secuencia, Adam incluyó la **secuencia instructiva** que tiene como objetivo dar órdenes, instrucciones o consejos: recetas de cocina, instrucciones de uso de una lavadora. Usan tiempos verbales como el futuro, el condicional o el imperativo. Esta secuencia tiene especial relevancia en el campo de las TIC, como por ejemplo en los informes de los proyectos.
