@@ -44,3 +44,31 @@ Hay que adaptar la velocidad y el ritmo a nuestro discurso. No es igual retransm
 La velocidad está asociada con el poder. Cuando un político habla desde el Gobierno, reduce el número de palabras por minuto, mientras que un miembro de la oposición aumenta el ritmo.
 
 ### El silencio
+
+> _El ser humano es exclavo de sus palabras, amo de sus silencios_ Aforismo Árabe.
+
+Si se usa apropiadamente, el silencio proporciona autoridad, permite reflexionar y asegura que se pueda retornar el discurso con vigor.
+
+El silencio genera un espacio de tensión emocional que debemos saber gestionar.
+
+Puede parecer que un momento sin palabras aburre al auditorio, pero es justo lo contrario. Debemos aprovechar los segundos de silencio para respirar, recapitular y retomar la intervención con más fuerza. Así, la atención se concentra y las palabras que pronunciamos justo después de un silencio son más potentes si se pronuncian en medio de un discurso.**Es cuando no nos detenemos cuando el público nos deja de escuchar**.
+
+### Sobre cuidar la voz
+
+La voz es el producto de la vibración de las cuerdas vocales. Estas son el único instrumento con el que cuenta el orador. Por lo tanto, debemos cuidarlas.
+
+Estos son algunos consejos para ayudar a su cuidado:
+* Evita toser y carraspear. Bebe agua.
+* No grites, ni fuerces la voz para competir con el ruido ambiental.
+* Si padeces habitualmente de dolor de garganta, ve al médico o a un especialista.
+* Cuando estés constipado o tengas contracturas musculares o tensión cervical, debes dejar descansar la voz.
+* Respira bien. Realiza las pausas cuando toque y ejecuta buenos enlaces fónicos.
+* Para modular bien el volumen y la potencia hay que realizar un byen calentamiento de todos los órganos y músculos que intervienen en la fonación.
+
+**Calentar los órganos fonadores y los músculos faciales** nos ayudará a concentrarnos y rebajar la tensión:
+
+- Flexiona el cuello tres veces hacia delante, a la derecha y a la izquierda de forma suave, pausada y continua.
+- Mueve la mandíbyla a la derecha y a la izquierda, hacia dentro y hacia fuera. El gesto contribuirá a que articules mejor las palabras.
+- Apoya la lengua en los incisivos inferiores y llévala hacia los dientes  superiores. Sácala y vuelve a meterla en la boca varias veces seguidas. Esto te proporcionará mejor dicción.
+- Infla y desinfla los mofletes varias veces para liberar los músculos faciales y así facilitar la expresión de sentimientos.
+- Ejercita las cuerdad vocales repitiendo: _maaa, meee, miiii, mooo, muuu, paaa, peee, piiii, pooo, puuu_ comenzando con el mismo tono para luego ir buscando diferentes notas. Esto nos ayuda a modular mejor la voz y evitar posibles lesiones que se producen al iniciar en seco la locución.
