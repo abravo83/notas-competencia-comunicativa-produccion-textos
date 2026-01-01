@@ -72,3 +72,17 @@ Estos son algunos consejos para ayudar a su cuidado:
 - Apoya la lengua en los incisivos inferiores y llévala hacia los dientes  superiores. Sácala y vuelve a meterla en la boca varias veces seguidas. Esto te proporcionará mejor dicción.
 - Infla y desinfla los mofletes varias veces para liberar los músculos faciales y así facilitar la expresión de sentimientos.
 - Ejercita las cuerdad vocales repitiendo: _maaa, meee, miiii, mooo, muuu, paaa, peee, piiii, pooo, puuu_ comenzando con el mismo tono para luego ir buscando diferentes notas. Esto nos ayuda a modular mejor la voz y evitar posibles lesiones que se producen al iniciar en seco la locución.
+
+## Sobre el lenguaje no verbal
+
+Es el mecanismo de comunicación más intuitivo del que disponemos es el lenguaje no verbal. Con él, al mismo tiempo que con las palabras, expresamos cómo nos sentimos y cómo reaccionamos. El mecanismo de interpretación de de este lenguaje es complicado de verbalizar, pero sencillo de percibir a través de nuestra intuición.
+
+Se puede planificar el lenguaje no verbal, pero cuando se intenta controlar la gestualidad y el movimiento el resultado suele ser el de la pérdida de la naturalidad o incluso la pérdida del hilo discursivo.
+
+La recomendación sobre este punto es la de **preparar bien el contenido del discurso y dejarse ir durante la presentación**.
+
+Cuando se sabe de lo que se habla, se diga lo que se diga, los gestos y el contenido textual de lo que se dice no serán contradictorios y, generalmente, la expresión gestual será adecuada. Con una idea clara del discurso y los puntos importantes de lo que contiene, encontraremos la armonía entre la voz, el gesto y las palabras.
+
+En todo caso, como herramienta siempre podemos grabar nuestro discurso para analizarlo posteriormente o pedirle a alguien de confianza que nos de su opinión.
+
+
