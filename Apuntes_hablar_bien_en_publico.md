@@ -30,3 +30,17 @@ Es importante también alejarse de la repetición entonativa, que produce un efe
 
 La entonación nos sirve para transmitir el valor que le estamos dando a las propias palabras.
 
+
+### Sobre el ritmo
+
+> Quilón de Esparta: "tu palabra no debe correr más que tu pensamiento".
+
+Debemos encontrar un tirmo que sea constante, melódicamente armonizar gracias a las acentuaciones y curvas, y ponderado ademas mediante momentos de calma, reflexión y silencio.
+
+Hay que adaptar la velocidad y el ritmo a nuestro discurso. No es igual retransmitir un partido de fútbol que comentar una ceremonia de entrega de premios. Igualmente, no es lo mismo impartir una clase magistral frente a alumnos que toman apuntes que frente a un auditorio que escucha un mitin.
+
+> Sobre el ritmo **debemos marcar la información más relevante con un ritmo más lento, un volumen más alto un una dicción enfática**.
+
+La velocidad está asociada con el poder. Cuando un político habla desde el Gobierno, reduce el número de palabras por minuto, mientras que un miembro de la oposición aumenta el ritmo.
+
+### El silencio
