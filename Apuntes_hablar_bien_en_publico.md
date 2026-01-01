@@ -20,3 +20,13 @@ Es necesario en una presentación que se oiga bien lo que se dice. Para esto, el
 
 Mientras que una voz alta y proyectada vigorosamente consigue captar mejor la atención, debemos tener cuidado en no subir demasiado el volumen, ya que un exceso de volumen pude, en contra, denotar inseguridad y desdibujar las curvas melódicas. Por esto, es importante encontrar en cada caso la medida correcta para cada sala y cada audiencia. Las personas sentadas en la última fila deben ser capaces de oir cómodamente. Por otro lado, si se usa un micrófono hay que atenuar la intensidad de voz.
 
+### Sobre la entonación
+
+La entonación es un elemento clave: nos sirve para remarcar las ideas más relevantes del discurso y contribuye a enlazarlas.
+
+Mediante la entoncación, además, conseguimos romper la monotonía -apatía entonativa- que no transmite energía alguna entre interlocutor y auditorio, haciendo que las personas se aburran y desconecten del mensaje.
+
+Es importante también alejarse de la repetición entonativa, que produce un efecto similar a la monotonía cuando los mismos patrones de entonación se repiten una y otra vez.
+
+La entonación nos sirve para transmitir el valor que le estamos dando a las propias palabras.
+
