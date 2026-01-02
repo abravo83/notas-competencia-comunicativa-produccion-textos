@@ -229,3 +229,14 @@ Esta responde de forma precia a las cuestiones que han originado la investigaci�
 La conclusión tiene que ser breve, y se ha de relacionar directamente con los objetivos o hipótesis iniciales. Cuando hay más de un objetivo debe de haber más de una conclusión.
 
 En la conclusión se pueden incluir recomendaciones para enfatizar lo que puede hacerse, acciones futuras, soluciones, sugerencias, alternativas, consejos, etc.
+
+## Recomendaciones finales a la hora de realizar una exposición
+
+- Debes dominar el tema y estar convencido del interés que tendrá para los asistentes.
+- No improvises las ideas, todo debe estar preparado.
+- Construye un discurso que tenga en cuenta a los destinatarios: ritmo, duración, complicidad con el público, sin comprometer el rigor.
+- Prepara la intervención oral con tiempo y déjala macerar. Despues revísala poniéndote en la piel del público.
+- Ensaya la intervención, ya sea mediante grabación, un espejo o alguna persona de confianza.
+- Define los términos especializados que vayas a utilizar para asegurar la compresión de la audiencia cuando esta sea heterogénea.
+- Atenúa las barreras físicas que te separan del público. Debes conseguir ver los ojos de tus interlocuores para saber si realmente te están escuchando.
+- Acude a la exposición descansando y preparado. Es mejor no comer ni beber demasiado antes de la exposición.
