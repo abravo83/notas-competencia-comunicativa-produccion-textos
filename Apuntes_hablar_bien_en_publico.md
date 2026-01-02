@@ -151,3 +151,46 @@ Los recursos digitales son útiles para romper la monotonía, especialmente víd
 Las diapositivas deben servir cada una para aproximadamente un minuto y medio de discursos. En una charla de 15 minutos lo recomendable serán unas 10 diapositivas.
 
 Es práctico poder usar un mando a distancia para pasar las diapositivas, ya que los desplazamientos excesivos pueden distraer a la audiencia.
+
+## Recomendaciones de estilo en la oratoria
+
+### Concisión y precisión
+
+Nuestro discurso debe de ser conciso y preciso. Debemos de prescindir de lo que no sea necesario para centrarnos en lo que sí lo es.
+
+Al mismo tiempo debemos de usar las palabras adecuadas para decir lo que queremos decir, y no otra cosa. Debemos evitar palabras ambiguas y circunloquios, ya que van a denotar que no tenemos claro lo que queremos decir.
+
+Es importante para evitar esto que dominemos correctamente el tema: Debemos saber _qué_ decir antes de _cómo_ decirlo.
+
+### Claridad y simplicidad
+
+Debemos expresar nuestras ideas de forma clara, sin un exceso de incisos, sin detalles que no añaden mucho y que distraen de la idea que queremos transmitir.
+
+### Registro adecuado
+
+Cuando se da una charla, debemos usar un léxico general que se adapte a toda la audiencia. Debemos usar un registro formal, aunque se pude recurrir al uso ocasional de expresiones más coloquiales.
+
+### Pronunciación correcta y dicción clara
+
+Para ser buenos oradores debemos de pronunciar correctamente las palabras y tener una dicción limpia y clara.
+
+Para conseguir una dicción clara debemos entrenar los músculos que intervienen en el habla. Es recomendable, antes de un discurso, pronunciar algunos trabalenguas, que nos ayudan a preparar la cavidad bucal, de cara a emitir los sonidos que pueden resultar difíciles de pronunciar.
+
+Debemos también practicar la pronunciación de aquellas palabra que pueden entronpecer nuestro discurso, bien por ser largas, bien por ser complejas de pronunciar.
+
+Una fórmula para evitar cometer errores de pronunciación consiste en separar la palabra en sílabas y leerla rápidamente, cada vez a mayor velocidad. Escribirla nos permite retenerla en la memoria, de forma que cuando la necesitemos usar, nuestra memoria visual nos pueda ayudar a recordarla.
+
+### Evitar cacofonías y el uso de muletillas
+
+Hay palabras que, al ser usadas con cierta frecuencia, introducen en nuestro discurso un sonido desagradable: **las cacofonias**
+
+Por ejemplo, el uso continuo de palabra terminadas en -ad:
+
+> _La verdad, es que es una casualidad que se haya resuelto la dificultad..._
+
+Para evitar este efecto es necesario contar con un repertorio léxico suficiente para poder sustituir algunas de estas palabras por otras con diferente terminación: _Lo cierto es que es casual que se haya resulto la dificultad..._
+
+Además de las cacofonías, otro recurso discursivo que debemos de evitar es el uso de muletillas: "Vale, pues, [...] veamos, es que [...]. Buenos, pues ..."
+
+Es preferible dejar pausas en nuestro discurso al uso continuo de muletillas. Más preferible aún será tener nuestro discurso lo suficientemente trabajado como para que no tengamos que recurrir a estos elementos mientras recordamos lo que queremos decir.
+
