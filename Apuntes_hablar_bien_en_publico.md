@@ -115,7 +115,7 @@ El movimiento de las manos contribuye en buena medida a dar fuerza al discurso. 
 Se dice que tener una mano en un bolsillo o estar apoyado en una mesa son postura excesivamente informales, pero no es necesariamente así.
 
 #### El lenguaje no verbal del público
-
+s
 El lenguaje no verbal del público nos va a permitir saber hasta que punto nuestra audiencia está atenta al discurso. Si vemos que con frecuencia hablan entre ellos, consultan el móvil o tienen una actitud demasiado relajada estan comunicando desconexión al discurso.
 
 ### La imagen personal
@@ -126,3 +126,28 @@ Nuestra ropa debe pasar desapercibida, no debe distraer del discurso. Esto no si
 
 En definitiva, debemos adaptarnos a lo que el público espera de nosotros, pero sin perder nuestra identidad.
 
+## Elementos de apoyo visual
+
+Mostrar o leer documentos, siendo pequeños fragmentos de los mismos, nos conectará con el público y nos proporcionará credibilidad.
+
+> Se gana más al público siendo claro y conciso que usando una gran parafernalia.
+
+Si recurrimos a elementos de apoyo visual, como pueden ser diapositivas u otros medios, debemos de recordar que estos deben de mantener un segundo plano. Nuestro discurso debe de ser el elemento principal de comunicación. Son nuestras palabras, y no la pantalla, las que deben de llevar a cabo el acto de comunicación principal.
+
+Algunos consejos a la hora de usar diapositivas u otros elementos presentados en una proyección o pantalla son:
+
+- Usar fuente suficientemente grande: 16 puntos o mayor.
+- Mantener en torno a 3 puntos por diapositiva.
+- Escoger buenos títulos: La idea básica.
+- Usar las diapositivas como un guión, pero sin abusar.
+- No abusar de imágenes.
+- No abusar de transiciones u otros efectos.
+- Vigilar el contraste de colores y textos.
+- Revisar la correción lingüística
+- No leas la diapositiva
+
+Los recursos digitales son útiles para romper la monotonía, especialmente vídeos, pero siempre que tengan relación con la exposición.
+
+Las diapositivas deben servir cada una para aproximadamente un minuto y medio de discursos. En una charla de 15 minutos lo recomendable serán unas 10 diapositivas.
+
+Es práctico poder usar un mando a distancia para pasar las diapositivas, ya que los desplazamientos excesivos pueden distraer a la audiencia.
