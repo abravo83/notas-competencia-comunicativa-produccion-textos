@@ -118,3 +118,11 @@ Se dice que tener una mano en un bolsillo o estar apoyado en una mesa son postur
 
 El lenguaje no verbal del público nos va a permitir saber hasta que punto nuestra audiencia está atenta al discurso. Si vemos que con frecuencia hablan entre ellos, consultan el móvil o tienen una actitud demasiado relajada estan comunicando desconexión al discurso.
 
+### La imagen personal
+
+Nuestra imagen personal debe ser el reflejo de lo que queremos transmitir. Nuestra indumentaria, peinado y complementos deben ir en consonancia con la situación comunicativa, el auditorio y la audiencia.
+
+Nuestra ropa debe pasar desapercibida, no debe distraer del discurso. Esto no significa ir todo lo elegante posible, sino vestirnos para sentirnos cómodos, ser nosotros mismos, pero al mismo tiempo no desentonar del ambiente en el que nos encontramos.
+
+En definitiva, debemos adaptarnos a lo que el público espera de nosotros, pero sin perder nuestra identidad.
+
