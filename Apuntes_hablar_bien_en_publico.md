@@ -194,3 +194,38 @@ Además de las cacofonías, otro recurso discursivo que debemos de evitar es el 
 
 Es preferible dejar pausas en nuestro discurso al uso continuo de muletillas. Más preferible aún será tener nuestro discurso lo suficientemente trabajado como para que no tengamos que recurrir a estos elementos mientras recordamos lo que queremos decir.
 
+## Estructura de nuestro discurso
+
+La estructura de nuestro discurso consta de tres partes: introducción, cuerpo y conclusión.
+
+### Introducción
+
+Nos ha de servir para situar el tema central del discurso. Debemos además encontrar un título que nos sirva para anunciar el contenido de nuestro discurso que sea claro, conciso y sin redundancias.
+
+Debemos también presentar un sumario y una sinopsis de la presentación, enfatizando la información novedosa que se aporta.
+
+La introducción debe de contestar la pregunta ¿Por qué me puede interesar escuchar esta charla?
+
+### Cuerpo
+
+Debe consistir en el análisis de los hechos o datos, con el soporte de ejemplos bien seleccionados que nos sirvan para ilustrar la información. Este es el eje de la presentación, al que debemos llegar una vez que hemos conseguido despertar el interés de los oyentes.
+
+Conviene que presentemos la información de forma jerárquica, con una clasificación y orden sistemático.
+
+Debemos mencionar tanto los aspectos positivos como los negativos sin intentar camuflarlos.
+
+Es recomendable comenzar el cuerpo por los objetivos que se quiere alcanzar, aunque hay otras fórmulas que pueden resultar efectivas, como puede ser comenzar por los resultados o insuniando las conclusione.
+
+La estructura típica del cuerpo sería:
+- Objetivos
+- Antecedentes
+- Procedimientos: metodología y técnicas utilizadas.
+- Resultados y discusión.
+
+### Conclusión
+
+Esta responde de forma precia a las cuestiones que han originado la investigación y su función de síntesis final puede ser valorativa.
+
+La conclusión tiene que ser breve, y se ha de relacionar directamente con los objetivos o hipótesis iniciales. Cuando hay más de un objetivo debe de haber más de una conclusión.
+
+En la conclusión se pueden incluir recomendaciones para enfatizar lo que puede hacerse, acciones futuras, soluciones, sugerencias, alternativas, consejos, etc.
