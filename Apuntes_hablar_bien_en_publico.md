@@ -85,4 +85,36 @@ Cuando se sabe de lo que se habla, se diga lo que se diga, los gestos y el conte
 
 En todo caso, como herramienta siempre podemos grabar nuestro discurso para analizarlo posteriormente o pedirle a alguien de confianza que nos de su opinión.
 
+### La cara y la mirada
+
+El lenguaje facial es universal, transmite emociones y mensajes sin necesidad de pronunciar ni una sola palabra. Una sonrisa natural y una mirada franca son **más valiosos** que una gestualidad **preparada**.
+
+Es imposible controlar la poco menos de media centena de músculos que tenemos en la cara. La mejor estrategia es relajarse y liberar las facciones.
+
+La comunicación oral se **mantiene** con la mirada. Nuestros ojos transmiten emociones, muestran nuestra timidez, profundidad, conocimiento e inquietud. Cuando nos atrevemos a mirar a nuestros interlocutores a los ojos, estamos dando un primer paso para ganártelos. Por esta razón es recomendable repartir la mirada por toda la sala, ya que las personas a las que no miras siente que no las estas teniendo en cuenta, desconectándose y convirtiéndose en menos permeables a lo que estás diciendo.
+
+Un ejercicio para que puedas observar el resultado contrario es practicar delante de un espejo usando miradas extrañas como si fuera un juego.
+
+### El cuerpo y las manos
+
+A través del lenguaje corporal podemos percibir la inseguridad y los puntos fuertes del orador. 
+
+Estos son algunos consejos sobre tu postura y movimientos, pero, recuerda que antes hay que dominar muy bien el contenido del discurso.
+
+* Busca una posición corporar cómoda que permita transmitir con convicción.
+* Muestra seguridad, pero sin exhibir prepotencia.
+* Sitúate de cara al público, con una actitud amáble, abierta y predispuesta.
+* Evita el balanceo, y realiza movimientos intencionados. Haz que el movimiento y el discurso vayan a una.
+* No hagas gestos que puedan distraer a la gente, como, por ejemplo, tocarte el pelo o juguetear con la ropa o con objetos.
+* No pienses en la gestualidad. Si te concentrar en el discurso y la audiencia, los gestos saldrán solos.
+
+#### Sobre el movimiento de las manos
+
+El movimiento de las manos contribuye en buena medida a dar fuerza al discurso. Se pueden contar enumeraciones, reforzar una afirmación, señalar en una dirección, descubrir un nuevo elemento abriendo la mano, abrir los brazos y cerrarlos para englobar conceptos, etcétera. La regla principal es que los movimientos voluntarios de las manos estén en sintonía con lo que estás diciendo.
+
+Se dice que tener una mano en un bolsillo o estar apoyado en una mesa son postura excesivamente informales, pero no es necesariamente así.
+
+#### El lenguaje no verbal del público
+
+El lenguaje no verbal del público nos va a permitir saber hasta que punto nuestra audiencia está atenta al discurso. Si vemos que con frecuencia hablan entre ellos, consultan el móvil o tienen una actitud demasiado relajada estan comunicando desconexión al discurso.
 
