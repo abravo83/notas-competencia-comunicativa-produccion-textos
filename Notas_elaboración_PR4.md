@@ -43,3 +43,13 @@
 - Imagen personal cuidadosa y adecuada al contexto profesional
 
 ### Diapositivas de apoyo
+
+- Diapositivas muy claras, visuales y organizadas.
+- Información relevantes y muy sintetizada
+- Tipografía legible
+- Colores adecuados
+- Sin errores lingüísticos
+
+### Autoría
+
+- Que el nivel de expresión esté en concordancia con el nivel de expresión escrita realizado en las actividades previas.
