@@ -36,3 +36,10 @@
 - La voz refueza el mensaje
 
 ### Lenguaje no verbal
+
+- Mirada que conecta con el público (cámara)
+- Gestualidad adecuada y coherente.
+- Postura segura y natural
+- Imagen personal cuidadosa y adecuada al contexto profesional
+
+### Diapositivas de apoyo
